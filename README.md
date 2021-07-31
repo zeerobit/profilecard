@@ -36,8 +36,8 @@
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/responsive-design-using-flexbox-started-with-mobile-design-first-HPlVGCgLN
-- Live Site URL: https://zeerobit.github.io/statscard/
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-profile-card-using-html5-and-css3-z3i7bnN8_
+- Live Site URL: https://zeerobit.github.io/profilecard/
 
 ## My process
 
