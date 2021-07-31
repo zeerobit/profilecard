@@ -182,7 +182,7 @@ img {
 			width: 100vw;
 			top: 0;
 			left: 0;
-			background: url("/images/bg-pattern-top.svg") no-repeat;
+			background: url("images/bg-pattern-top.svg") no-repeat;
 			background-position: bottom right;
 			transform: translate(-47%, -47%);
 			z-index: -1;
@@ -196,14 +196,14 @@ img {
 			bottom: 0;
 			right: 0;
 			background-size: auto;
-			background: url("/images/bg-pattern-bottom.svg") no-repeat;
+			background: url("images/bg-pattern-bottom.svg") no-repeat;
 			background-position: left 47vw top 52vh;
 			z-index: -1;
 		}
 		
 		.profile_card {
 			min-width: 22rem;
-			background: url(/images/bg-pattern-card.svg) top/contain no-repeat;
+			background: url(images/bg-pattern-card.svg) top/contain no-repeat;
 			background-color: white;
 		}
 	} 
