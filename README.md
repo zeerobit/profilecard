@@ -29,9 +29,7 @@
 
 ### Screenshot
 
-![desktop-view](https://user-images.githubusercontent.com/49578782/127720359-80682005-5a69-4765-8c20-3d384e731199.jpg)
-
-![mobile-view](https://user-images.githubusercontent.com/49578782/127720407-ede99518-f60e-4d6e-bd44-0ee993ac6cd1.jpg)
+![desktop-preview](https://user-images.githubusercontent.com/49578782/134385325-495dd3ee-9989-451e-a0e8-568b50099a89.jpg)
 
 
 ### Links
